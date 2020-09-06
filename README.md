@@ -1,6 +1,6 @@
 ### Hi there, I'm Kevin - aka [Kev][website] 👋
 
-## I'm a Student, Developer, and Noobster! 🤣
+## I'm a Student, Developer and Noobster! 🤣
 - 🔭 I’m currently working in [Smart Reasons][websiteSR]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: share all my projects on github
@@ -37,6 +37,14 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+
+---
+
+<img align="left" alt="kevinpqh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kevinpqh&show_icons=true&include_all_commits=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinpqh)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <br />
 
 
