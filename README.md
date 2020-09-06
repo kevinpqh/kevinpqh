@@ -11,6 +11,14 @@
 - 🥅 2020 Goals: share all my projects on github
 - ⚡ Fun fact: I love watching movies
 
+### Spotify Playing 🎧
+
+[![Spotify](https://kevinpqh.vercel.app/api/spotify)](https://open.spotify.com/user/12161511658)
+
+
+### Spotify Playing v2 🎧
+
+[<img src="https://novatorem.kevinpqh.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/12161511658)
 
 ### Connect with me:
 
