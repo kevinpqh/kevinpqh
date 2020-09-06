@@ -40,9 +40,9 @@
 
 ---
 
-<img align="left" alt="kevinpqh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kevinpqh&show_icons=true&include_all_commits=true" />
+<img align="left" alt="kevinpqh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kevinpqh&show_icons=true&include_all_commits=true&hide=stars,contribs" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinpqh)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinpqh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br />
