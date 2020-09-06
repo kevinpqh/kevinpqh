@@ -15,8 +15,6 @@
 
 [![Spotify](https://novatorem.kevinpqh.vercel.app/api/spotify)](https://open.spotify.com/user/12161511658)
 
-### Spotify Playing 2 🎧
-[<img src="https://spotify-readme-eight.vercel.app/api/spotify-playing" alt="kevin Spotify Playing" width="350" />](https://open.spotify.com/user/12161511658)
 
 ### Connect with me:
 
