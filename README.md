@@ -1,5 +1,10 @@
 ### Hi there, I'm Kevin - aka [Kev][website] 👋
 
+
+![Website](https://img.shields.io/website?label=https%3A%2F%2Fkevinpqh.github.io&style=for-the-badge&url=https%3A%2F%2Fkevinpqh.github.io)
+![Twitter Follow](https://img.shields.io/twitter/follow/kevpqh?color=1DA1F2&logo=Twitter&style=for-the-badge)
+![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)
+
 ## I'm a Student, Developer and Noobster! 🤣
 - 🔭 I’m currently working in [Smart Reasons][websiteSR]!
 - 🌱 I’m currently learning everything 🤣
@@ -40,7 +45,14 @@
 
 ---
 
-<img align="center" alt="kevinpqh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kevinpqh&show_icons=true&include_all_commits=true" />
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+<img align="center" alt="kevinpqh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kevinpqh&show_icons=true&include_all_commits=true&hide=stars,contribs" />
 
 <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinpqh" />
 
