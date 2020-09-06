@@ -1,9 +1,8 @@
 ### Hi there, I'm Kevin - aka [Kev][website] 👋
 
-
-![Website](https://img.shields.io/website?label=https%3A%2F%2Fkevinpqh.github.io&style=for-the-badge&url=https%3A%2F%2Fkevinpqh.github.io)
-![Twitter Follow](https://img.shields.io/twitter/follow/kevpqh?color=1DA1F2&logo=Twitter&style=for-the-badge)
-![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)
+[![Website](https://img.shields.io/website?label=https%3A%2F%2Fkevinpqh.github.io&style=for-the-badge&url=https%3A%2F%2Fkevinpqh.github.io)][website]
+[![Twitter Follow](https://img.shields.io/twitter/follow/kevpqh?color=1DA1F2&logo=Twitter&style=for-the-badge)][twitter]
+[![Facebook](https://img.shields.io/badge/follow%20%40kevinpqh-3-brightgreen?&style=for-the-badge&logo=facebook&color=1877F2)][facebook]
 
 ## I'm a Student, Developer and Noobster! 🤣
 - 🔭 I’m currently working in [Smart Reasons][websiteSR]!
@@ -14,7 +13,6 @@
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.kevinpqh.vercel.app/api/spotify)](https://open.spotify.com/user/12161511658)
-
 
 ### Connect with me:
 
