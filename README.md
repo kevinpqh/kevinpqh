@@ -50,7 +50,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com//kevinpqh/LyricsShare/issues/12) in [kevinpqh/LyricsShare](https://github.com//kevinpqh/LyricsShare)
+1. ❗️ Opened issue [#12](https://github.com/kevinpqh/LyricsShare/issues/12) in [kevinpqh/LyricsShare](https://github.com/kevinpqh/LyricsShare)
 <!--END_SECTION:activity-->
 
 ---
